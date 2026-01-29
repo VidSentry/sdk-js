@@ -36,7 +36,7 @@ import {
     NetworkError,
 } from './errors.js';
 
-const DEFAULT_BASE_URL = 'https://your-project.supabase.co';
+const DEFAULT_BASE_URL = 'https://cyzacqndakvnxhohmbgx.supabase.co';
 const DEFAULT_TIMEOUT = 30000;
 
 export class VidSentry {
@@ -270,3 +270,4 @@ export class VidSentry {
         return new Promise(resolve => setTimeout(resolve, ms));
     }
 }
+
