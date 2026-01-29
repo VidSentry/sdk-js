@@ -1,6 +1,6 @@
 {
     "name": "@vidsentry/sdk",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "Official VidSentry SDK for video content moderation with African cultural awareness",
     "main": "./dist/index.js",
     "module": "./dist/index.mjs",
@@ -47,4 +47,5 @@
     "engines": {
         "node": ">=18.0.0"
     }
+
 }
